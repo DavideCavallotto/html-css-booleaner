@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+.top_page{
+    width: 2005px;
+    height: 180px;
+    background-color: #4485D1;
+    background-image: url(../img/pattern.png);
+}
+
+.logo {
+    width: 300px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 20px;     
+}
+
+
