@@ -27,13 +27,12 @@ a {
 }
 
 main, footer {
-    margin: 20px;
+    margin: 10px;
     font-weight: bold;
 }
 
-p {
-    margin-top: 20px;
-    margin-bottom: 20px;
+.maintext {
+    margin: 20px 0px
     
 }
 
@@ -43,9 +42,9 @@ ul {
 }
 
 table {
-    margin-left: -15px;
-        
+    margin-bottom: 20px;
 }
+
 
 thead {
     background-color: rgb(32, 169, 229);
@@ -72,19 +71,20 @@ td, .highlightedWhite{
     background-image: url(../img/monitor.jpg);    
     background-repeat: no-repeat;
     width: 400px;
-    height: 400px;
+    height: 250px;
     color: white;    
-    font-size: 25px;    
+    font-size: 25px;  
+ 
 }
 
 .banner_two {
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     width: 400px;
-    height: 400px;
+    height: 250px;
     color: white;    
-    font-size: 25px;  
-    
+    font-size: 25px;
+       
 }
 
 
