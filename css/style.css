@@ -17,4 +17,13 @@
     margin-left: 20px;     
 }
 
+.author {
+    color: rgb(150, 150, 150);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(8, 179, 235);
+}
+
 
