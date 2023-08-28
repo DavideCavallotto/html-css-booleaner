@@ -26,4 +26,67 @@ a {
     color: rgb(8, 179, 235);
 }
 
+main, footer {
+    margin: 20px;
+    font-weight: bold;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+ul {
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+table {
+    margin-left: -15px;
+        
+}
+
+thead {
+    background-color: rgb(32, 169, 229);
+    color: white;    
+}
+
+td, .highlightedBlue{
+    background-color: rgb(177, 229, 242);
+}
+
+td, .highlightedWhite{
+    background-color: white;
+}
+
+.highlightedYellow {
+    background-color: yellow;
+}
+
+.graywriting{
+    color: rgb(150, 150, 150);
+}
+
+.banner_one {
+    background-image: url(../img/monitor.jpg);    
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+    color: white;    
+    font-size: 25px;    
+}
+
+.banner_two {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+    color: white;    
+    font-size: 25px;  
+    
+}
+
+
+
 
