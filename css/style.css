@@ -43,6 +43,7 @@ ul {
 
 table {
     margin-bottom: 20px;
+    border-spacing: 0;
 }
 
 
@@ -66,6 +67,7 @@ td, .highlightedWhite{
 .graywriting{
     color: rgb(150, 150, 150);
 }
+
 
 .banner_one {
     background-image: url(../img/monitor.jpg);    
